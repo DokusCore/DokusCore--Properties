@@ -5,8 +5,8 @@ description 'DokusCore Properties'
 author 'http://DokusCore.com'
 fx_version "adamant"
 games {"rdr3"}
--- version '1.0.0'
-version '-----'
+version '1.0.0'
+-- version '-----'
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 server_scripts {
